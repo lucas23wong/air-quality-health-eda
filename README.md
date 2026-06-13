@@ -3,8 +3,13 @@
 ## Project Overview 
 This project analyzes the BreathWatch Air Quality & Health 2015-2024 dataset to identify the drivers to respiratory illnesses such as asthma, COPD, lung cancer, etc.
 
+## Project Structure
+- data/ -> stores CSV file of dataset as well as cleaned data ready for analysis 
+- notebooks/ -> stores jupyter notebooks used for data cleaning, analysis, and visualization 
+
 ## Data 
 The CSV data for this project was downloaded from Kaggle: https://www.kaggle.com/datasets/aliyasaly1231/breathwatch-air-quality-and-health-2015-2024. The dataset contains 6,000 records (2015-2024) spanning over 30 countries and 100+ cities. It tracks 12 key atmospheric pollutants (PM2.5, NO2, etc.) as well as other health, environmental, and demographic data. 
+
 
 
 
