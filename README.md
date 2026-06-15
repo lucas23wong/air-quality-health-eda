@@ -16,7 +16,8 @@ This project analyzes the BreathWatch Air Quality & Health 2015-2024 dataset to 
 - Jupyter - notebooks
 
 ## Data 
-The CSV data for this project was downloaded from Kaggle: https://www.kaggle.com/datasets/aliyasaly1231/breathwatch-air-quality-and-health-2015-2024. The dataset contains 6,000 records (2015-2024) spanning over 30 countries and 100+ cities. It tracks 12 key atmospheric pollutants (PM2.5, NO2, etc.) as well as other health, environmental, and demographic data. 
+- The CSV data for this project was downloaded from Kaggle: https://www.kaggle.com/datasets/aliyasaly1231/breathwatch-air-quality-and-health-2015-2024. 
+- The dataset contains 6,000 records (2015-2024) spanning over 30 countries and 100+ cities. It tracks 12 key atmospheric pollutants (PM2.5, NO2, etc.) as well as other health, environmental, and demographic data. 
 
 ## Jupyter Notebooks 
 | Notebook | Purpose | 
