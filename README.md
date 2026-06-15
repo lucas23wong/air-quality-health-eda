@@ -21,8 +21,8 @@ The CSV data for this project was downloaded from Kaggle: https://www.kaggle.com
 ## Jupyter Notebooks 
 | Notebook | Purpose | 
 | --- | --- | 
-| 01_data_cleaning.ipynb | Orders data by date and season + filters through records with NaN entries. Dataset is cut down to 4047 entries from 6000. |
-
+| 01_data_cleaning.ipynb | Orders data by date and season + filters through records with NaN entries. |
+| 02_eda.ipynb | Explores the cleaned dataset through univariate and multivariate visualizations. |
 
 
 
