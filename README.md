@@ -22,7 +22,7 @@ This project analyzes the BreathWatch Air Quality & Health 2015-2024 dataset to 
 ## Jupyter Notebooks 
 | Notebook | Purpose | 
 | --- | --- | 
-| 01_data_cleaning.ipynb | Orders data by date and season + filters through records with NaN entries. |
+| 01_data_cleaning.ipynb | Orders data by date and season, filters through records with NaN entries, and continent column is added. |
 | 02_eda.ipynb | Explores the cleaned dataset through univariate and multivariate visualizations. |
 
 
