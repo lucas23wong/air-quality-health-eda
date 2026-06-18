@@ -7,7 +7,6 @@ This project analyzes the BreathWatch Air Quality & Health 2015-2024 dataset to 
 - data/ -> stores CSV file of dataset as well as cleaned data ready for analysis 
 - notebooks/ -> stores jupyter notebooks used for data cleaning, analysis, and visualization 
 
-
 ## Tech Stack 
 - Python 3.12
 - Pandas, numpy - data manipulation 
